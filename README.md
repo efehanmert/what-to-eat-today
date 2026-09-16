@@ -114,6 +114,6 @@ The first complete version of the application has been finished, including the u
 
 **Efehan Mert**
 
-📧 [mertefehan2010@gmail.com](mailto:mertefehan2010@gmail.com)
+📧 [business.efehan@gmail.com](mailto:business.efehan@gmail.com)
 
 GitHub: [@efehanmert](https://github.com/efehanmert)
